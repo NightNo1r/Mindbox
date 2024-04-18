@@ -11,10 +11,10 @@
 Вычисление площади фигуры без знания типа фигуры в compile-time
 Проверку на то, является ли треугольник прямоугольным
 
-**Решение находится в проекте [ShapeLib](https://github.com/NightNo1r/Mindbox/ShapeLib)**
+**Решение находится в проекте [ShapeLib](https://github.com/NightNo1r/Mindbox/tree/main/ShapeLib)**
 
 - Вопрос №2
 > В базе данных MS SQL Server есть продукты и категории. Одному продукту может соответствовать много категорий, в одной категории может быть много продуктов. Напишите SQL запрос для выбора всех пар «Имя продукта – Имя категории». Если у продукта нет категорий, то его имя все равно должно выводиться.
 По возможности — положите ответ рядом с кодом из первого вопроса.
 
-**Решение находится в файле [ProductCategoryCouplesScript.sql](https://github.com/NightNo1r/Mindbox/ProductCategoryCouplesScript.sql)**
+**Решение находится в файле [ProductCategoryCouplesScript.sql](https://github.com/NightNo1r/Mindbox/blob/main/ProductCategoryCouplesScript.sql)**
